@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "236853421270",
+    "firebase_url": "https://clap-a85c0-default-rtdb.firebaseio.com",
+    "project_id": "clap-a85c0",
+    "storage_bucket": "clap-a85c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236853421270:android:10bc1c1046bacc6e0d9577",
+        "android_client_info": {
+          "package_name": "com.clap.clapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236853421270-ssuu3q9j6qvri67cv8or4or6lhii8sao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clap.clapapp",
+            "certificate_hash": "57cb535cdfec8879580829124879997341fec0c9"
+          }
+        },
+        {
+          "client_id": "236853421270-875rt2tmjhk1sfevo3d7nsnre4ounbcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC6T_lxIkgsfv9V3wl-K-MOm35K7xEHjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236853421270-875rt2tmjhk1sfevo3d7nsnre4ounbcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
